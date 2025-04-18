@@ -7,6 +7,10 @@
 
 -Uvicorn 
 
+-kutubxonalarini yuklab olish kerak
+
+-Keyin esa:
+
 - Telegram kerak bo'ladi
 
 -Keyin esa bu botni ishga tushirish uchun telegram botga kirib startni bosish kerak
