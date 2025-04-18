@@ -8,7 +8,7 @@
 -Uvicorn 
 
 - Telegram kerak bo'ladi
-- 
+
 -Keyin esa bu botni ishga tushirish uchun telegram botga kirib startni bosish kerak
 
 -Keyin esa telefon raqam yuborishni so'raydi siz yuborganingizdan so'ng asosiy menyuga kiradi
